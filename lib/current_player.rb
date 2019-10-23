@@ -9,5 +9,3 @@ def turn_count(board)
   end
   return counter
 end
-
-puts turn_count(board)
