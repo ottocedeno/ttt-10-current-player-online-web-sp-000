@@ -1,3 +1,3 @@
-def turn_count(player)
+def turn_count(board)
 
 end
